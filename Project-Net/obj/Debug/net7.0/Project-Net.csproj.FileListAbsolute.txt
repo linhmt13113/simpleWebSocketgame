@@ -1,0 +1,17 @@
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\bin\Debug\net7.0\Project-Net.exe
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\bin\Debug\net7.0\Project-Net.deps.json
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\bin\Debug\net7.0\Project-Net.runtimeconfig.json
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\bin\Debug\net7.0\Project-Net.dll
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\bin\Debug\net7.0\Project-Net.pdb
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.csproj.AssemblyReference.cache
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.AssemblyInfoInputs.cache
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.AssemblyInfo.cs
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.dll
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\refint\Project-Net.dll
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.pdb
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.genruntimeconfig.cache
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\ref\Project-Net.dll
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\bin\Debug\net7.0\NetCoreServer.dll
+C:\Users\ADMIN\RiderProjects\Project-Net\Project-Net\obj\Debug\net7.0\Project-Net.csproj.CopyComplete

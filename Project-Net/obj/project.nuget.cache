@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Kgp4nJde4Icj0D97qnFdWtfs8gX3j1iF/aSacBAQc0qulJ8tSJnzeMa4S9m0ipSptFBOEkeCepqX+i7+Bi9Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\RiderProjects\\Project-Net\\Project-Net\\Project-Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\netcoreserver\\7.0.0\\netcoreserver.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
